@@ -10,4 +10,6 @@
  6.Referanslar <br />
  
  2.1 Versiyon Geçmişi
- 28.12.2016 : Murat Çağıran Eclipse ve Python'un Windowsta Kurulumu
+ 28.12.2016 : Murat Çağıran Eclipse ve Python'un Windowsta Kurulumu <br />
+ 
+ 3.Giriş
