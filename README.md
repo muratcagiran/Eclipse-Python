@@ -50,7 +50,10 @@
  ![alt tag](https://github.com/muratcagiran/Eclipse-Python/blob/master/Eclipse%20e%20Pyhton6.png)
  Python'un yüklü olduğu dosya yolunu seçiniz eğer bulamıyor iseniz quick auto config ile sorunu çözebilirsiniz. <br />
  <br />
- Kurulumdan sonra Eclipse'i açıp üstteki menüden 
+ Kurulumdan sonra yeni python projesi oluşturmak için Eclipse'i açıp üstteki menüden File --->New -->Pydev Project 'i seçiyoruz <br />
+ ![alt tag](https://github.com/muratcagiran/Eclipse-Python/blob/master/Eclipste%20Pyhton%20Proje%20Oluşturma.png)
+ Project Name kısmına proje adını  <br />
+ Project Contents default değil ise kendi dosya yolunuzu verebilirsiniz default olarak önceden belirlemiş olduğunuz çalışma alanına kaydedilir. <br />
  
  
  
