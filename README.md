@@ -20,6 +20,8 @@
  4.Eclipse Geliştirme Ortamının Windows’a Kurulması <br />
  
  Öncelikle https://eclipse.org/downloads/ sitesine giderek işlemci mimarinize göre kurulum dosyanızı indirin. <br />
- İndirdiğiniz dosyaya  tıklayın
+ İndirdiğiniz dosyayı çalıştırın. <br />
+  ![alt tag](https://github.com/muratcagiran/Eclipse-Python/blob/master/Eclipse%20Yükleme1.png)
+  Sadece python için kullanacağımızdan dolayı şuan ne seçtiğinizin bir önemi yok,o yüzden herhangi biri seçilebilir. <br />
  
- ![alt tag](http://url/to/img.png)
+ 
