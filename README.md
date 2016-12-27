@@ -13,3 +13,6 @@
  28.12.2016 : Murat Çağıran Eclipse ve Python'un Windowsta Kurulumu <br />
  
  3.Giriş <br />
+ Projemizde Hidden Markov modeli gerçeklenecektir.Bu modeli gerçekleyeceğimiz platform Eclipse <br />
+ ve programlama dili olarak da Python kullanılacaktır.Bundan dolayı Eclipse kurulumu ve Python <br />
+ programlama dilinin Eclipse’e entegrasyonunu anlatacağız(Windows için). <br />
