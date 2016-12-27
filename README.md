@@ -67,6 +67,18 @@
  <br />
  Project Name kısmına proje adını giriniz. <br />
  Project Contents default değil ise kendi dosya yolunuzu verebilirsiniz default olarak önceden belirlemiş olduğunuz çalışma alanına kaydedilir. <br />
+ ![alt tag](https://github.com/muratcagiran/Eclipse-Python/blob/master/Eclipste%20Pyhton%20Proje%20Oluşturma3.png)
+ Src'ye sağ tıklayın. <br />
+ ![alt tag](https://github.com/muratcagiran/Eclipse-Python/blob/master/Eclipste%20Pyhton%20Proje%20Oluşturma4.png)
+ New Pydev Module'e basınız. <br />
+ ![alt tag](https://github.com/muratcagiran/Eclipse-Python/blob/master/Eclipste%20Pyhton%20Proje%20Oluşturma5.png)
+ Oluşturacağınız projenin ismini Name kısmına girin. <br />
+ 
+ 6.Referanslar  <br />
+ 1. https://www.python.org/downloads/windows/  <br />
+ 2. https://www.python.org/downloads/  <br />
+ 3. http://www.pydev.org/manual_101_install.html  <br />
+ 4. http://www.vogella.com/tutorials/Python/article.html  <br />
  
  
  
