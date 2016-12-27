@@ -23,5 +23,10 @@
  İndirdiğiniz dosyayı çalıştırın. <br />
   ![alt tag](https://github.com/muratcagiran/Eclipse-Python/blob/master/Eclipse%20Yükleme1.png)
   Sadece python için kullanacağımızdan dolayı şuan ne seçtiğinizin bir önemi yok,o yüzden herhangi biri seçilebilir. <br />
- 
+  ![alt tag](https://github.com/muratcagiran/Eclipse-Python/blob/master/Eclipse%20Yükleme2.png)
+  Dosya yolunu verip install'a basın. <br />
+  ![alt tag](https://github.com/muratcagiran/Eclipse-Python/blob/master/Eclipse%20Yükleme3.png)
+  Launch butonuna basın. <br />
+  ![alt tag](https://github.com/muratcagiran/Eclipse-Python/blob/master/Eclipse%20Yükleme4.png)
+  Projeleriniz workspace'te belirtilen uzantıya kaydedilecektir bunu göz önünde bulundurarak dosya yolunu seçin. <br />
  
