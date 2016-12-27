@@ -35,24 +35,37 @@
  İlk olarak Python'u https://www.python.org/getit/ linkinden işletim sistemi ve işlemcinize göre indirmelisiniz.   <br />
  Python'u indirdikten sonra Eclipse geliştirme ortamını açıp,en üstteki satırda bulunan "Help" menüsünden <br />
  "install new software" butonuna basın. <br />
+ <br />
  ![alt tag](https://github.com/muratcagiran/Eclipse-Python/blob/master/Eclipse%20e%20Pyhton1.png)
  Add butonuna basın. <br />
+ <br />
  ![alt_tag](https://github.com/muratcagiran/Eclipse-Python/blob/master/Eclipse%20e%20Pyhton2.png)
+ <br />
  Karşınıza gelecek pencereyi resimdeki gibi doldurun. <br />
+ <br />
  ![alt tag](https://github.com/muratcagiran/Eclipse-Python/blob/master/Eclipse%20e%20Pyhton3.png)
+ <br />
  Resimdeki ekranda pydev'in solundaki kutucuğu işaretleyin. <br />
+ <br />
  ![alt tag](https://github.com/muratcagiran/Eclipse-Python/blob/master/Eclipse%20e%20Pyhton4.png)
+ <br />
  Pydev for Eclipse Developer Resources seçilip next tuşuna basılır. <br />
+ <br />
  ![alt tag](https://github.com/muratcagiran/Eclipse-Python/blob/master/Eclipse%20e%20Pyhton5.png)
+ <br />
  Kullanıcı sözleşmesi kabul edilip finish tuşuna basılır.   <br />
  <br />
  Ardından Eclipse'i açıp  Window ---> Prefences ---> Pydev ---> İnterpreter ---> Python İnterpreterı seçiniz. <br />
+ <br />
  ![alt tag](https://github.com/muratcagiran/Eclipse-Python/blob/master/Eclipse%20e%20Pyhton6.png)
+ <br />
  Python'un yüklü olduğu dosya yolunu seçiniz eğer bulamıyor iseniz quick auto config ile sorunu çözebilirsiniz. <br />
  <br />
  Kurulumdan sonra yeni python projesi oluşturmak için Eclipse'i açıp üstteki menüden File --->New -->Pydev Project 'i seçiyoruz <br />
+ <br />
  ![alt tag](https://github.com/muratcagiran/Eclipse-Python/blob/master/Eclipste%20Pyhton%20Proje%20Oluşturma.png)
- Project Name kısmına proje adını  <br />
+ <br />
+ Project Name kısmına proje adını giriniz. <br />
  Project Contents default değil ise kendi dosya yolunuzu verebilirsiniz default olarak önceden belirlemiş olduğunuz çalışma alanına kaydedilir. <br />
  
  
