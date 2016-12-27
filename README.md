@@ -9,7 +9,5 @@
  5.Eclipse’e Python Eklentisi Kurmak <br />
  6.Referanslar <br />
  
- |===
-	|Tarih|Değişiklik|Kişi
-	|20.10.2016
-	| Eclipse ve Python’un Mac Ortamında Kurulumu
+ 2.1 Versiyon Geçmişi
+ 28.12.2016 Murat Çağıran Eclipse ve Python'un Windowsta Kurulumu
