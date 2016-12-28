@@ -9,7 +9,7 @@
  5.Eclipse’e Python Eklentisi Kurmak +
  6.Referanslar +
   
- 2.1*Versiyon Geçmişi*
+ 2.*Versiyon Geçmişi*
 |===
 |Tarih|Değişiklik|Kişi
 
@@ -18,12 +18,14 @@
 |Murat Çağıran
 |===
 
+3.*Giriş* +
+Projemizde Hidden Markov modeli gerçeklenecektir.Bu modeli gerçekleyeceğimiz platform Eclipse 
+ ve programlama dili olarak da Python kullanılacaktır.Bundan dolayı Eclipse kurulumu ve Python 
+ programlama dilinin Eclipse’e entegrasyonunu anlatacağız(Windows için). +
+
 
  
- 3.*Giriş* 
- Projemizde Hidden Markov modeli gerçeklenecektir.Bu modeli gerçekleyeceğimiz platform Eclipse 
- ve programlama dili olarak da Python kullanılacaktır.Bundan dolayı Eclipse kurulumu ve Python 
- programlama dilinin Eclipse’e entegrasyonunu anlatacağız(Windows için). 
+
  
  4.*Eclipse Geliştirme Ortamının Windows’a Kurulması*
  
