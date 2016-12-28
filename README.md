@@ -71,7 +71,7 @@
  Src'ye sağ tıklayın. <br />
  ![alt tag](https://github.com/muratcagiran/Eclipse-Python/blob/master/Eclipste%20Pyhton%20Proje%20Oluşturma4.png)
  New Pydev Module'e basınız. <br />
- ![alt tag](https://github.com/muratcagiran/Eclipse-Python/blob/master/Eclipste%20Pyhton%20Proje%20Oluşturma5.png)
+ [[https://github.com/muratcagiran/Eclipse-Python/blob/master/Eclipste%20Pyhton%20Proje%20Oluşturma5.png]]
  Oluşturacağınız projenin ismini Name kısmına girin. <br />
  
  6.Referanslar  <br />
