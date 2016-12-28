@@ -28,7 +28,7 @@ Projemizde Hidden Markov modeli gerçeklenecektir.Bu modeli gerçekleyeceğimiz 
  
 
  
- 4.*Eclipse Geliştirme Ortamının Windows’a Kurulması*
+ 4.*Eclipse Geliştirme Ortamının Windows’a Kurulması*+
  
  Öncelikle https://eclipse.org/downloads/   sitesine giderek işlemci mimarinize göre kurulum dosyanızı indirin. 
  İndirdiğiniz dosyayı çalıştırın. 
