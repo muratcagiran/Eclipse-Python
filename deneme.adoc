@@ -21,7 +21,7 @@
  
  Öncelikle https://eclipse.org/downloads/ sitesine giderek işlemci mimarinize göre kurulum dosyanızı indirin. 
  İndirdiğiniz dosyayı çalıştırın. 
- image::https://github.com/muratcagiran/Eclipse-Python/blob/master/Eclipse%20Yükleme1.png
+ https://github.com/muratcagiran/Eclipse-Python/blob/master/Eclipse%20Yükleme1.png
   Sadece python için kullanacağımızdan dolayı şuan ne seçtiğinizin bir önemi yok,o yüzden herhangi biri seçilebilir. 
  image::https://github.com/muratcagiran/Eclipse-Python/blob/master/Eclipse%20Yükleme2.png
   Dosya yolunu verip install'a basın. 
@@ -71,7 +71,7 @@
  Src'ye sağ tıklayın. 
  image::https://github.com/muratcagiran/Eclipse-Python/blob/master/Eclipste%20Pyhton%20Proje%20Oluşturma4.png
  New Pydev Module'e basınız. 
- ![image](https://github.com/muratcagiran/Eclipse-Python/blob/master/Eclipste%20Pyhton%20Proje%20Oluşturma4.png)
+ image::https://github.com/muratcagiran/Eclipse-Python/blob/master/Eclipste%20Pyhton%20Proje%20Oluşturma5.png
  Oluşturacağınız projenin ismini Name kısmına girin. 
  
  6.Referanslar  
