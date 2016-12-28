@@ -1,7 +1,7 @@
 = Eclipse-Python
 
 
-1. *İçindekiler* +
+1.*İçindekiler* +
  1.İçindekiler +
  2.Versiyon Geçmişi  +
  3.Giriş  +
