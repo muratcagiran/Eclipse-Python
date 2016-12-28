@@ -9,17 +9,17 @@
  5.Eclipse’e Python Eklentisi Kurmak +
  6.Referanslar +
   
- 2.1 Versiyon Geçmişi 
+ 2.1 *Versiyon Geçmişi*
  28.12.2016 : Murat Çağıran Eclipse ve Python'un Windowsta Kurulumu 
  
- 3.Giriş 
+ 3.*Giriş* + 
  Projemizde Hidden Markov modeli gerçeklenecektir.Bu modeli gerçekleyeceğimiz platform Eclipse 
  ve programlama dili olarak da Python kullanılacaktır.Bundan dolayı Eclipse kurulumu ve Python 
- programlama dilinin Eclipse’e entegrasyonunu anlatacağız(Windows için). 
+ programlama dilinin Eclipse’e entegrasyonunu anlatacağız(Windows için). + 
  
- 4.Eclipse Geliştirme Ortamının Windows’a Kurulması 
+ 4.*Eclipse Geliştirme Ortamının Windows’a Kurulması*+
  
- Öncelikle [[https://eclipse.org/downloads/]] sitesine giderek işlemci mimarinize göre kurulum dosyanızı indirin. 
+ Öncelikle https://eclipse.org/downloads/   sitesine giderek işlemci mimarinize göre kurulum dosyanızı indirin. 
  İndirdiğiniz dosyayı çalıştırın. 
  https://github.com/muratcagiran/Eclipse-Python/blob/master/Eclipse%20Yükleme1.png
   Sadece python için kullanacağımızdan dolayı şuan ne seçtiğinizin bir önemi yok,o yüzden herhangi biri seçilebilir. 
@@ -28,10 +28,10 @@
  image::(https://github.com/muratcagiran/Eclipse-Python/blob/master/Eclipse%20Yükleme3.png)
   Launch butonuna basın. 
  image::(https://github.com/muratcagiran/Eclipse-Python/blob/master/Eclipse%20Yükleme4.png)
-  Projeleriniz workspace'te belirtilen uzantıya kaydedilecektir bunu göz önünde bulundurarak dosya yolunu seçin. 
+  Projeleriniz workspace'te belirtilen uzantıya kaydedilecektir bunu göz önünde bulundurarak dosya yolunu seçin. +
  
  
- 5.Eclips'e Python Eklentisi Kurmak  
+ 5.*Eclips'e Python Eklentisi Kurmak*  +
  İlk olarak Python'u https://www.python.org/getit/ linkinden işletim sistemi ve işlemcinize göre indirmelisiniz.  
  Python'u indirdikten sonra Eclipse geliştirme ortamını açıp,en üstteki satırda bulunan "Help" menüsünden 
  "install new software" butonuna basın. 
@@ -72,12 +72,12 @@
  image::https://github.com/muratcagiran/Eclipse-Python/blob/master/Eclipste%20Pyhton%20Proje%20Oluşturma4.png
  New Pydev Module'e basınız. 
  image::https://github.com/muratcagiran/Eclipse-Python/blob/master/Eclipste%20Pyhton%20Proje%20Oluşturma5.png
- Oluşturacağınız projenin ismini Name kısmına girin. 
+ Oluşturacağınız projenin ismini Name kısmına girin. +
  
- 6.Referanslar  
+ 6.*Referanslar*  +
  1. https://www.python.org/downloads/windows/  
  2. https://www.python.org/downloads/  
  3. http://www.pydev.org/manual_101_install.html  
- 4. http://www.vogella.com/tutorials/Python/article.html  
+ 4. http://www.vogella.com/tutorials/Python/article.html  +
  
  
